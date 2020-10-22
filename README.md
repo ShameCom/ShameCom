@@ -19,6 +19,8 @@
 |寒武纪|2020/10/11|抽奖面试直通卡，不安排面试（？？？）|[死渣男，寒武纪！！！](https://acm.nowcoder.com/discuss/535795)|
 | Oppo         | 2020/08/22 | 实习转正，性别歧视（被公关道歉）               | [关于OPPO实习女生转正问题的说明](https://www.nowcoder.com/discuss/485524) |
 |旷视|2020/08/09|解约三方|[旷视-秋招offer提前实习被告知工作不利被主动解约三方 ](https://www.nowcoder.com/discuss/396691)|
+|招银网络科技|2020/07/30|外包公司，PUA应届生|[奉劝各位21届的小伙伴不要去招银这个火坑了](https://www.nowcoder.com/discuss/462559)|
+|四维图新|2020/07/03|解约应届生|[拿到毕业证的第二天被通知解约](https://www.nowcoder.com/discuss/478674)|
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)|
 |e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)|
 |蘑菇街|2020/04/18|裁应届生|[有蘑菇街20届的吗，我好慌](https://www.nowcoder.com/discuss/411631)|
