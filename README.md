@@ -4,7 +4,7 @@
 
 污点行为**包括**但不限于：毁意向书、毁两方协定、毁三方协定、试用期裁员、大量裁应届生。
 
-污点行为**不**包括：试用期结束未通过（除非大批量蓄意）
+污点行为**不**包括：毁OC（除非大量）、试用期结束未通过（除非大批量蓄意）
 
 本人是2021届应届毕业生，参加了2021届的秋招，看到了好多往年公司毁约却在第二年依旧简历爆满的情况。本仓库的设立旨在帮助正在进行校招或者即将参加校招的同学们提供一个参考以避雷，并不是说这些公司就再也不能投了，但是具有污点的公司仍然要被钉在校招的耻辱柱上，让他们知道所谓的弱势群体也不是一盘散沙。
 
@@ -21,7 +21,13 @@
 |旷视|2020/08/09|解约三方|[旷视-秋招offer提前实习被告知工作不利被主动解约三方 ](https://www.nowcoder.com/discuss/396691)|
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)|
 |e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)|
+|蘑菇街|2020/04/18|裁应届生|[有蘑菇街20届的吗，我好慌](https://www.nowcoder.com/discuss/411631)|
+|畅唐网络|2020/04/17|裁应届生|[被裁员了，校招的40多个小伙伴就留下了4/5个](https://www.nowcoder.com/discuss/410955)|
+|万得|2020/04/10|毁约|[万得的毁约骚操作](https://www.nowcoder.com/discuss/404773)|
+|追一科技|2020/03/30|违约三方，裁应届生|[追一科技违约三方裁应届生，大家有什么想法？](https://www.nowcoder.com/discuss/395561)|
 |平安智慧城|2020/02/19|毁三方|[平安智慧城毁应届生三方!!!](https://www.nowcoder.com/discuss/368247)<br>[平安智慧城毁约应届生](https://www.nowcoder.com/discuss/410340)|
+|比特大陆|2020/01|毁约|[https://www.nowcoder.com/discuss/398338](https://www.nowcoder.com/discuss/398338)|
+|云从科技|2019/11/20|毁意向书|[云从毁意向](https://www.nowcoder.com/discuss/344872)|
 |小米|2019/10/30|毁意向|原贴已被删，https://www.nowcoder.com/discuss/328652|
 | 美团 | 2019/10/29 | 大量毁意向书 | [美团:意向书不等于offer,毁约走起](https://www.nowcoder.com/discuss/329925)<br>[美团毁我口头offer，一拖再拖](https://www.nowcoder.com/discuss/329066)<br>[美团用户平台，坑你没商量！](https://www.nowcoder.com/discuss/328218) |
 | 腾讯微保 | 2019/10/17 | 大量毁意向书 | [“腾讯”微保毁约大批秋招意向offer？官方这样回应](https://xueqiu.com/1166829230/134298982)<br>[【辟谣】微保校招技术岗毁意向书？官方辟谣，同学们请看这里！（已删帖）](https://link.zhihu.com/?target=https%3A//www.nowcoder.com/discuss/314782%3Ftype%3Dpost%26) |
@@ -39,6 +45,9 @@
 |作业帮|2019/11/19|毁意向书|[作业帮毁了数十人意向，可真够恶心的呢](https://www.nowcoder.com/discuss/344690)|
 |哈啰出行|2019/11/19|毁意向书|[哈啰毁意向书，心态炸了](https://www.nowcoder.com/discuss/344681)<br>[哈啰毁意向，从此一生黑。](https://www.nowcoder.com/discuss/345769)|
 |微博杭州研究中心|2019/10/22|毁意向书|https://www.nowcoder.com/discuss/330167?toCommentId=5001015|
+|京东|2019/04/11|毁约19应届|[京东毁约2019校招应届生？回应：极少数，将做出赔偿](https://dy.163.com/article/ECFGOIOF05346961.html)|
 |网易|18届19届|暴力裁应届生|[网易裁员](https://www.nowcoder.com/discuss/342956)<br>百度即可|
 |第四范式|2018/10/25|大规模毁意向书|[秋招最坑-第四范式大规模毁offer意向书](https://www.nowcoder.com/discuss/135697)|
 |迈瑞医疗|2018/12/29|大量解聘应届生|[深圳迈瑞医疗解聘大量应届生](https://www.nowcoder.com/discuss/149960)|
+|宜信|2018/11/14|正式offer变实习offer|[宜信继如第四范式撕毁意向书后,改为发放实习offer!?](https://zhuanlan.zhihu.com/p/49756477)|
+|金山云|2017/10/30|收回offer|[秋招被金山云收回offer,我该怎么办?](https://www.zhihu.com/question/67347461)|
