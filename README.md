@@ -32,6 +32,7 @@
 |平安智慧城|2020/02/19|毁三方|[平安智慧城毁应届生三方!!!](https://www.nowcoder.com/discuss/368247)<br>[平安智慧城毁约应届生](https://www.nowcoder.com/discuss/410340)|
 |比特大陆|2020/01|毁约|[https://www.nowcoder.com/discuss/398338](https://www.nowcoder.com/discuss/398338)|
 |云从科技|2019/11/20|毁意向书|[云从毁意向](https://www.nowcoder.com/discuss/344872)|
+|滴滴|2019/10/31|强制转岗，变相劝退|[滴滴毁我意向书，强制转岗变相劝退](https://www.hemeiti.cn/1931.html)|
 |小米|2019/10/30|毁意向|原贴已被删，https://www.nowcoder.com/discuss/328652|
 | 美团 | 2019/10/29 | 大量毁意向书 | [美团:意向书不等于offer,毁约走起](https://www.nowcoder.com/discuss/329925)<br>[美团毁我口头offer，一拖再拖](https://www.nowcoder.com/discuss/329066)<br>[美团用户平台，坑你没商量！](https://www.nowcoder.com/discuss/328218) |
 | 腾讯微保 | 2019/10/17 | 大量毁意向书 | [“腾讯”微保毁约大批秋招意向offer？官方这样回应](https://xueqiu.com/1166829230/134298982)<br>[【辟谣】微保校招技术岗毁意向书？官方辟谣，同学们请看这里！（已删帖）](https://link.zhihu.com/?target=https%3A//www.nowcoder.com/discuss/314782%3Ftype%3Dpost%26) |
