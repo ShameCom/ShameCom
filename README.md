@@ -14,12 +14,14 @@
 | ------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 |猫眼|2020/10/20|宣传转正率99.9%，pua实习生|[猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329)|
 | 中电53所     | 2020/10/18 | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书 | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) |
-|华为|2020/10/15|几乎不招人，大量面试并泡池子|[可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)|
+|华为|2020/10/15|几乎不招人，大量面试并泡池子|[可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)<br>[关于华为云的更大坏消息](https://www.nowcoder.com/discuss/540384)|
 | 顺丰快运科技 | 2020/10/12 | 大量毁约意向书（原贴删除）                     | [顺丰快运科技**毁**意向](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=4742575977857058&mkt=zh-HK&setlang=zh-CN&w=_u-jtMlLQchsrIHD0QSZSnbv0v9p805f)<br>[顺丰毁约 放鸽子 口头offer后 毁](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=5006145236175916&mkt=zh-HK&setlang=zh-CN&w=g4IqsWz2ClrkiE4iAprpT78IXhM_Qz3n) |
+|海康威视|2020/10/12|毁签约通知|[海康威视hr的神奇操作。。简直无语。](https://www.nowcoder.com/discuss/536167)|
 |寒武纪|2020/10/11|抽奖面试直通卡，不安排面试（？？？）|[死渣男，寒武纪！！！](https://acm.nowcoder.com/discuss/535795)|
 | Oppo         | 2020/08/22 | 实习转正，性别歧视（被公关道歉）               | [关于OPPO实习女生转正问题的说明](https://www.nowcoder.com/discuss/485524) |
 |旷视|2020/08/09|解约三方|[旷视-秋招offer提前实习被告知工作不利被主动解约三方 ](https://www.nowcoder.com/discuss/396691)|
 |招银网络科技|2020/07/30|外包公司，PUA应届生|[奉劝各位21届的小伙伴不要去招银这个火坑了](https://www.nowcoder.com/discuss/462559)|
+|盛趣游戏|2020/07/27|毁三方，解约应届生|[大学生被盛趣公司坑害，毕业既失业](https://www.nowcoder.com/discuss/460237)|
 |四维图新|2020/07/03|解约应届生|[拿到毕业证的第二天被通知解约](https://www.nowcoder.com/discuss/478674)|
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)|
 |e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)|
