@@ -29,6 +29,7 @@
 |畅唐网络|2020/04/17|裁应届生|[被裁员了，校招的40多个小伙伴就留下了4/5个](https://www.nowcoder.com/discuss/410955)|
 |万得|2020/04/10|毁约|[万得的毁约骚操作](https://www.nowcoder.com/discuss/404773)|
 |追一科技|2020/03/30|违约三方，裁应届生|[追一科技违约三方裁应届生，大家有什么想法？](https://www.nowcoder.com/discuss/395561)|
+|GrowingIO|2020/03|毁应届offer|[迫于应届生被优化 20 届 找一份后端的工作](https://www.v2ex.com/t/651991)|
 |平安智慧城|2020/02/19|毁三方|[平安智慧城毁应届生三方!!!](https://www.nowcoder.com/discuss/368247)<br>[平安智慧城毁约应届生](https://www.nowcoder.com/discuss/410340)|
 |比特大陆|2020/01|毁约|[https://www.nowcoder.com/discuss/398338](https://www.nowcoder.com/discuss/398338)|
 |云从科技|2019/11/20|毁意向书|[云从毁意向](https://www.nowcoder.com/discuss/344872)|
@@ -50,6 +51,7 @@
 |作业帮|2019/11/19|毁意向书|[作业帮毁了数十人意向，可真够恶心的呢](https://www.nowcoder.com/discuss/344690)|
 |哈啰出行|2019/11/19|毁意向书|[哈啰毁意向书，心态炸了](https://www.nowcoder.com/discuss/344681)<br>[哈啰毁意向，从此一生黑。](https://www.nowcoder.com/discuss/345769)|
 |微博杭州研究中心|2019/10/22|毁意向书|https://www.nowcoder.com/discuss/330167?toCommentId=5001015|
+|浪潮|2019/09/21|扣实习生工资，性别歧视|[拉黑浪潮](https://www.nowcoder.com/discuss/272960)|
 |京东|2019/04/11|毁约19应届|[京东毁约2019校招应届生？回应：极少数，将做出赔偿](https://dy.163.com/article/ECFGOIOF05346961.html)|
 |网易|18届19届|暴力裁应届生|[网易裁员](https://www.nowcoder.com/discuss/342956)<br>百度即可|
 |第四范式|2018/10/25|大规模毁意向书|[秋招最坑-第四范式大规模毁offer意向书](https://www.nowcoder.com/discuss/135697)|
