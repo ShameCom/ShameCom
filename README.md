@@ -67,7 +67,7 @@
 
 3. 按下 F12 快捷键（或鼠标右键 >> 审查元素），调出 Chrome Web 开发者工具
 
-4. 按下 Ctrl + Shift + P 快捷键，快捷键，调出指令执行界面
+4. 按下 Ctrl + Shift + P 快捷键，调出指令执行界面
 
 5. 输入 Capture full size screenshot（指令支持模糊搜索），点击或回车
 
