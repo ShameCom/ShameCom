@@ -59,3 +59,17 @@
 |宜信|2018/11/14|正式offer变实习offer|[宜信继如第四范式撕毁意向书后,改为发放实习offer!?](https://zhuanlan.zhihu.com/p/49756477)|待补充 |
 |金山云|2017/10/30|收回offer|[秋招被金山云收回offer,我该怎么办?](https://www.zhihu.com/question/67347461)| 待补充 |
 
+# 如何使用网页长截图留档
+
+1. 使用 Chrome 浏览器 59 或更高版本`chrome://settings/help`
+
+2. 进入待截图的网页
+
+3. 按下 F12 快捷键（或鼠标右键 >> 审查元素），调出 Web 开发者工具
+
+4. 按下 Ctrl + Shift + P 快捷键，调出指令执行界面
+
+5. 输入 Capture full size screenshot（支持模糊搜索）指令，点击或回车
+
+取得网页长截图，放入 Git 仓库`/images`路径下，修改`README.md`对应链接，提交 PR 即可。
+
