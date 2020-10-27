@@ -12,11 +12,12 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 | 
 | :--- | :--- | :--- | :--- | :----- |
-|猫眼|2020/10/20|宣传转正率99.9%，pua实习生|[猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329)| [猫眼超恶心部门pua校招实习生.png](images/猫眼超恶心部门pua校招实习生.png) |
+| 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
+[猫眼超恶心部门pua校招实习生.png](images/www.nowcoder.com_discuss_540329.png) |
 | 中电53所     | 2020/10/18 | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书 | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) | 待补充 |
 |华为|2020/10/15|几乎不招人，大量面试并泡池子|[可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)<br>[关于华为云的更大坏消息](https://www.nowcoder.com/discuss/540384)| 待补充 |
 | 顺丰快运科技 | 2020/10/12 | 大量毁约意向书（原贴删除）                     | [顺丰快运科技**毁**意向](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=4742575977857058&mkt=zh-HK&setlang=zh-CN&w=_u-jtMlLQchsrIHD0QSZSnbv0v9p805f)<br>[顺丰毁约 放鸽子 口头offer后 毁](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=5006145236175916&mkt=zh-HK&setlang=zh-CN&w=g4IqsWz2ClrkiE4iAprpT78IXhM_Qz3n) | 待补充 |
-|海康威视|2020/10/12|毁签约通知|[海康威视hr的神奇操作。。简直无语。](https://www.nowcoder.com/discuss/536167)| 待补充 |
+| 海康威视 | 2020/10/12 | 毁签约通知 | [海康威视hr的神奇操作。。简直无语。](https://www.nowcoder.com/discuss/536167) | [海康威视hr的神奇操作。。简直无语。.png][海康威视hr的神奇操作。。简直无语。.png] |
 |寒武纪|2020/10/11|抽奖面试直通卡，不安排面试（？？？）|[死渣男，寒武纪！！！](https://acm.nowcoder.com/discuss/535795)| 待补充 |
 | Oppo         | 2020/08/22 | 实习转正，性别歧视（被公关道歉）               | [关于OPPO实习女生转正问题的说明](https://www.nowcoder.com/discuss/485524) | 待补充 |
 |旷视|2020/08/09|解约三方|[旷视-秋招offer提前实习被告知工作不利被主动解约三方 ](https://www.nowcoder.com/discuss/396691)| 待补充 |
@@ -71,5 +72,11 @@
 
 5. 输入 Capture full size screenshot（支持模糊搜索）指令（该指令中文环境下为“捕获全尺寸屏幕截图”），点击或回车
 
+
 取得网页长截图，放入 Git 仓库`/images`路径下，修改`README.md`对应链接，提交 PR 即可。
+
+<!-- Screenshots -->
+
+[猫眼超恶心部门pua校招实习生.png]: images/www.nowcoder.com_discuss_540329.png
+[海康威视hr的神奇操作。。简直无语。.png]: images/www.nowcoder.com_discuss_536167.png
 
