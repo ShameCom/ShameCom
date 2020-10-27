@@ -69,7 +69,7 @@
 
 4. 按下 Ctrl + Shift + P 快捷键，调出指令执行界面
 
-5. 输入 Capture full size screenshot（指令支持模糊搜索），点击或回车
+5. 输入 Capture full size screenshot（支持模糊搜索）指令，点击或回车
 
 取得网页长截图，放入 Git 仓库`/images`路径下，修改`README.md`对应链接，提交 PR 即可。
 
