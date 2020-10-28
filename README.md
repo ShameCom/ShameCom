@@ -12,6 +12,7 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+| 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
 | 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 中电53所 | 2020/10/18 | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书 | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) | [中电53所撕意向书毁三方.png][中电53所撕意向书毁三方.png] |
 | 华为 | 2020/10/15 | 几乎不招人，大量面试并泡池子 | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)<br>[关于华为云的更大坏消息](https://www.nowcoder.com/discuss/540384) | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png][可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png] |
@@ -82,5 +83,6 @@
 [死渣男，寒武纪！！！.png]: images/acm.nowcoder.com_discuss_535795.png
 [关于OPPO实习女生转正问题的说明.png]: images/www.nowcoder.com_discuss_485524.png
 [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png]: images/www.nowcoder.com_discuss_396691.png
+[b站毁意向书.png]: images/b站毁意向书.png
 
 <!-- Screenshots -->
