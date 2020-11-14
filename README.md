@@ -86,5 +86,5 @@
 [关于OPPO实习女生转正问题的说明.png]: images/www.nowcoder.com_discuss_485524.png
 [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png]: images/www.nowcoder.com_discuss_396691.png
 [b站毁意向书.png]: images/b站毁意向书.png
-
+[www.nowcoder.com_discuss_564004.png]:images/www.nowcoder.com_discuss_564004.png
 <!-- Screenshots -->
