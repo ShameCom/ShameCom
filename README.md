@@ -12,6 +12,8 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+| 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][腾讯校招因不能提前实习被毁offer.png] |
+| 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
 | 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 中电53所 | 2020/10/18 | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书 | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) | [中电53所撕意向书毁三方.png][中电53所撕意向书毁三方.png] |
