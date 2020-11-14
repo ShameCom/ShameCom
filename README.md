@@ -12,7 +12,7 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
-| 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][腾讯校招因不能提前实习被毁offer.png] |
+| 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][www.nowcoder.com_discuss_564004.png] |
 | 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
 | 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
