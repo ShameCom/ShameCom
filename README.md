@@ -12,6 +12,8 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+| 西山居 | 2020/10/31 | 毁实习生offer | [金山西山居欺骗实习生！真人真事](https://www.nowcoder.com/discuss/554535) | [截图备份.png](/images/西山居欺骗实习生.png) |
+| 转转网 | 2020/10/31<br>2020/11/02| 毁意向书 | [被毁意向书了](https://www.nowcoder.com/discuss/554654) <br> [转转的神奇操作+变相毁意向？](https://www.nowcoder.com/discuss/555817) | [截图备份1.png](/images/转转毁约意向书.png) <br> [截图备份2.png](/images/另一个转转毁约的帖子.png) |
 | 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
 | 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 中电53所 | 2020/10/18 | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书 | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) | [中电53所撕意向书毁三方.png][中电53所撕意向书毁三方.png] |
