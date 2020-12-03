@@ -13,6 +13,7 @@
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
 | 腾讯 | 2020/12/02 | 十月初收到意向书，十月底被告知岗位被取消，之后在不同的部门进行了四场面试至今无果 | [被腾讯毁意向了…万万没想到HR也会被HR坑](https://www.nowcoder.com/discuss/574490) | [截图备份.png](images/www.nowcoder.com_discuss_574490.png) |
+| 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][www.nowcoder.com_discuss_564004.png] |
 | 西山居 | 2020/10/31 | 毁实习生offer | [金山西山居欺骗实习生！真人真事](https://www.nowcoder.com/discuss/554535) | [截图备份.png](/images/西山居欺骗实习生.png) |
 | 转转网 | 2020/10/31<br>2020/11/02| 毁意向书 | [被毁意向书了](https://www.nowcoder.com/discuss/554654) <br> [转转的神奇操作+变相毁意向？](https://www.nowcoder.com/discuss/555817) | [截图备份1.png](/images/转转毁约意向书.png) <br> [截图备份2.png](/images/另一个转转毁约的帖子.png) |
 | 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
@@ -87,5 +88,5 @@
 [关于OPPO实习女生转正问题的说明.png]: images/www.nowcoder.com_discuss_485524.png
 [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png]: images/www.nowcoder.com_discuss_396691.png
 [b站毁意向书.png]: images/b站毁意向书.png
-
+[www.nowcoder.com_discuss_564004.png]:images/www.nowcoder.com_discuss_564004.png
 <!-- Screenshots -->
