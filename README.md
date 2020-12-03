@@ -12,6 +12,7 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+|多益网络|2020/12/02|寄三方或体检后被毁约|[本人寄三方后被毁约，打算签多益的看过来！！！](https://www.nowcoder.com/discuss/574772) <br> [多益网络体检完取消offer？](https://www.nowcoder.com/discuss/574432)|[本人寄三方后被毁约，打算签多益的看过来！！！][本人寄三方后被毁约，打算签多益的看过来！！！] <br> [多益网络体检完取消offer？][多益网络体检完取消offer？]|
 | 腾讯 | 2020/12/02 | 十月初收到意向书，十月底被告知岗位被取消，之后在不同的部门进行了四场面试至今无果 | [被腾讯毁意向了…万万没想到HR也会被HR坑](https://www.nowcoder.com/discuss/574490) | [截图备份.png](images/www.nowcoder.com_discuss_574490.png) |
 | 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][www.nowcoder.com_discuss_564004.png] |
 | 西山居 | 2020/10/31 | 毁实习生offer | [金山西山居欺骗实习生！真人真事](https://www.nowcoder.com/discuss/554535) | [截图备份.png](/images/西山居欺骗实习生.png) |
@@ -89,4 +90,6 @@
 [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png]: images/www.nowcoder.com_discuss_396691.png
 [b站毁意向书.png]: images/b站毁意向书.png
 [www.nowcoder.com_discuss_564004.png]:images/www.nowcoder.com_discuss_564004.png
+[本人寄三方后被毁约，打算签多益的看过来！！！]: images/本人寄三方后被毁约，打算签多益的看过来！！！.png
+[多益网络体检完取消offer？]: images/多益网络体检完取消offer？.png
 <!-- Screenshots -->
