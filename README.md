@@ -34,6 +34,7 @@
 |四维图新|2020/07/03|毁三方，解约应届生|[拿到毕业证的第二天被通知解约](https://www.nowcoder.com/discuss/478674)| [牛客网][Capture 147] |
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)| [牛客网][Capture 151] |
 |e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)| [牛客网][Capture 154] |
+|e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)| [牛客网][Capture 154] |
 |蘑菇街|2020/04/18|裁应届生|[有蘑菇街20届的吗，我好慌](https://www.nowcoder.com/discuss/411631)| [牛客网][Capture 157] |
 |畅唐网络|2020/04/17|裁应届生|[被裁员了，校招的40多个小伙伴就留下了4/5个](https://www.nowcoder.com/discuss/410955)|[牛客网][Capture 160] |
 |万得|2020/04/10|毁约|[万得的毁约骚操作](https://www.nowcoder.com/discuss/404773)|[牛客网][Capture 163] |
