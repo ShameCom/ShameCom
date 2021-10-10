@@ -33,7 +33,7 @@
 |盛趣游戏|2020/07/27|毁三方，解约应届生|[大学生被盛趣公司坑害，毕业既失业](https://www.nowcoder.com/discuss/460237)| [牛客网][Capture 144] |
 |四维图新|2020/07/03|毁三方，解约应届生|[拿到毕业证的第二天被通知解约](https://www.nowcoder.com/discuss/478674)| [牛客网][Capture 147] |
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)| [牛客网][Capture 151] |
-|浦发银行科技子公司|2020/04|20春招耍猴|[传闻招聘900人](https://www.nowcoder.com/discuss/672564?type=post&order=time&pos=&page=5&ncTraceId=&channel=-1&source_id=search_post_nctrack)| [牛客网][Capture 151] |
+|浦发银行科技子公司|2020/04|20春招耍猴|[传闻招聘900人](https://www.nowcoder.com/discuss/672564?type=post&order=time&pos=&page=5&ncTraceId=&channel=-1&source_id=search_post_nctrack)| [牛客网][Capture 900] |
 |e成科技|2020/04/23|毁约拒绝赔偿|[上海 e成科技 毁约 拒绝赔偿](https://www.nowcoder.com/discuss/415667)| [牛客网][Capture 154] |
 |蘑菇街|2020/04/18|裁应届生|[有蘑菇街20届的吗，我好慌](https://www.nowcoder.com/discuss/411631)| [牛客网][Capture 157] |
 |畅唐网络|2020/04/17|裁应届生|[被裁员了，校招的40多个小伙伴就留下了4/5个](https://www.nowcoder.com/discuss/410955)|[牛客网][Capture 160] |
@@ -134,5 +134,6 @@
 [Capture 262]: images/深圳迈瑞医疗解聘大量应届生_猿生活_牛客网.png
 [Capture 265]: images/宜信继如第四范式撕毁意向书后,改为发放实习offer!_-知乎.png
 [Capture 268]: images/秋招被金山云收回offer,我该怎么办_-知乎.png
+[Capture 900]: images/2021届浦发校招宣传.jpeg
 
 <!-- Screenshots -->
