@@ -12,6 +12,10 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+|达达|2022/04/11|毁三方|[达达开始毁约应届了，今天直接把校招群解散了，挨个通知](https://maimai.cn/web/gossip_detail/30245093?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNDUwOTMsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcxN2E5MThkZGI1MzRmNzViMzNlODRhMDgyYzQwNDZjIn0.sOr3o6l6_8SPAXG2iowpMsLl4Z-_fJ196oeGkMYEoBg&share_channel=2)| [达达开始毁约应届了，今天直接把校招群解散了，挨个通知][Capture 269] |
+|有赞|2022/03/13|毁三方|[有赞第二波裁员开始。开始大量解约应届生](https://maimai.cn/web/gossip_detail/30090542?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAwOTA1NDIsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcyYTZkNTcxMzg4ZDRkNWE4ZjU4NGU1M2EzNTRjMTIxIn0.gx1ES6OjUyGUUBUpLZMbAZogPZNSM6vOqN3TT3KDeFw&share_channel=2)| [有赞第二波裁员开始。开始大量解约应届生][Capture 270] |
+|银泰集团|2022/04/28|提前实习毁校招正式offer|[阿里毁三方 阿里银泰毁三方](https://www.nowcoder.com/discuss/943832)| [阿里银泰毁三方][Capture 271] |
+|哈啰出行|2022/05/02|毁三方|[哈啰出行四月底毁三方，吃相难看](https://www.nowcoder.com/discuss/945918)| [哈啰出行四月底毁三方，吃相难看][Capture 272] |
 | 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
 | 虎牙 | 2021/03/02 | 毁意向书 | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
 |高顿教育|2021/01/26|毁约|[高顿教育，最让我担心的事情还是让我摊上了](https://www.nowcoder.com/discuss/591473)|[高顿教育，最让我担心的事情还是让我摊上了](images/高顿教育，最让我担心的事情还是让我摊上了.png)|
@@ -133,5 +137,9 @@
 [Capture 262]: images/深圳迈瑞医疗解聘大量应届生_猿生活_牛客网.png
 [Capture 265]: images/宜信继如第四范式撕毁意向书后,改为发放实习offer!_-知乎.png
 [Capture 268]: images/秋招被金山云收回offer,我该怎么办_-知乎.png
+[Capture 269]: images/达达-2022-5-5.png
+[Capture 270]: images/有赞-2022-5-5.png
+[Capture 271]: images/阿里银泰毁三方-2022-5-5.png
+[Capture 272]: images/哈啰出行四月底毁三方，吃相难看.png
 
 <!-- Screenshots -->
