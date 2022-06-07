@@ -12,7 +12,7 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
-| 亚信安全 | 2022/06/206 | 亚信安全六月份解约校招生 | [亚信安全六月份解约校招生]([https://www.nowcoder.com/discuss/623405](https://www.nowcoder.com/discuss/965032?)) | [亚信安全六月份解约校招生.png](images/nowcoder——discuss——965032.jpg.png) |
+| 亚信安全 | 2022/06/206 | 亚信安全六月份解约校招生 | [亚信安全六月份解约校招生](https://www.nowcoder.com/discuss/965032?) | [亚信安全六月份解约校招生.png](images/nowcoder——discuss——965032.jpg.png) |
 | 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
 | 虎牙 | 2021/03/02 | 毁意向书 | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
 |高顿教育|2021/01/26|毁约|[高顿教育，最让我担心的事情还是让我摊上了](https://www.nowcoder.com/discuss/591473)|[高顿教育，最让我担心的事情还是让我摊上了](images/高顿教育，最让我担心的事情还是让我摊上了.png)|
